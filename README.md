@@ -3,7 +3,7 @@
 Each click brings a new number between 0 and 36 🔄🎡
 
 🎨 Visual Feedback:
-Colors that come alive! 💚 Green for 0, ❤️ Red for even numbers, and 🖤 Black for odd numbers — creating a dynamic vibe right on your screen! 💫
+Colors that come alive! 💚 Green for 0, ❤️ Red for even numbers, and 🖤 Black for odd numbers — creating a dynamic vibe right on your screen! 💫 
 
 ⚡ User Experience:
 Sleek, smooth, and responsive! 💻
