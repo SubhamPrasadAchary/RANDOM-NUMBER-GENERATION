@@ -11,7 +11,7 @@ Sleek, smooth, and responsive! 💻
 ✅ Clear visual cues help you instantly recognize outcomes.
 📱 Fully responsive design, making it perfect on any screen — from desktop to mobile!
 
- # Tech Stack 💻:
+ # Tech Stack 💻: 
 
 🚀 Frontend: React.js
 
