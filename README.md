@@ -15,7 +15,7 @@ Sleek, smooth, and responsive! 💻
 
 🚀 Frontend: React.js
 🧠 State Management: React Hooks (useState)
-🎨 Styling: Elegant class-based CSS
+🎨 Styling: Elegant class-based CSS 
 🛠️ Build Tool: React App
 
 <img width="462" height="585" alt="image" src="https://github.com/user-attachments/assets/95d44ac7-95f2-4fb7-b8f1-186fe1f3b37a" />
